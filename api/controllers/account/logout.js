@@ -4,7 +4,7 @@ module.exports = {
   friendlyName: 'Logout',
 
 
-  description: 'Log out of this app.',
+  description: 'Log out of this app to do the changes .',
 
 
   extendedDescription:
